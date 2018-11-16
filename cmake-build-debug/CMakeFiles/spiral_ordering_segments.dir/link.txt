@@ -1,0 +1,1 @@
+/usr/bin/c++   -Werror -Wno-unused-variable -Wno-sign-compare -g   CMakeFiles/spiral_ordering_segments.dir/spiral_ordering_segments.cc.o  -o spiral_ordering_segments -lpthread 
