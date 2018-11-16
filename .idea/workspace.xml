@@ -4,24 +4,25 @@
     <generated>
       <config projectName="epi_judge_cpp" targetName="tree_from_preorder_with_null" />
       <config projectName="epi_judge_cpp" targetName="max_sum_subarray" />
-      <config projectName="epi_judge_cpp" targetName="random_subset" />
+      <config projectName="epi_judge_cpp" targetName="copy_posting_list" />
       <config projectName="epi_judge_cpp" targetName="online_median" />
-      <config projectName="epi_judge_cpp" targetName="bonus" />
-      <config projectName="epi_judge_cpp" targetName="closest_int_same_weight" />
-      <config projectName="epi_judge_cpp" targetName="delete_kth_last_from_list" />
-      <config projectName="epi_judge_cpp" targetName="huffman_coding" />
-      <config projectName="epi_judge_cpp" targetName="even_odd_array" />
       <config projectName="epi_judge_cpp" targetName="lru_cache" />
+      <config projectName="epi_judge_cpp" targetName="closest_int_same_weight" />
+      <config projectName="epi_judge_cpp" targetName="bonus" />
+      <config projectName="epi_judge_cpp" targetName="descendant_and_ancestor_in_bst" />
+      <config projectName="epi_judge_cpp" targetName="even_odd_array" />
+      <config projectName="epi_judge_cpp" targetName="is_valid_sudoku" />
       <config projectName="epi_judge_cpp" targetName="two_sorted_arrays_merge" />
       <config projectName="epi_judge_cpp" targetName="valid_ip_addresses" />
       <config projectName="epi_judge_cpp" targetName="interval_add" />
       <config projectName="epi_judge_cpp" targetName="reverse_bits" />
       <config projectName="epi_judge_cpp" targetName="do_terminated_lists_overlap" />
-      <config projectName="epi_judge_cpp" targetName="is_valid_sudoku" />
-      <config projectName="epi_judge_cpp" targetName="descendant_and_ancestor_in_bst" />
+      <config projectName="epi_judge_cpp" targetName="graph_clone" />
+      <config projectName="epi_judge_cpp" targetName="even_odd_list_merge" />
       <config projectName="epi_judge_cpp" targetName="largest_rectangle_under_skyline" />
       <config projectName="epi_judge_cpp" targetName="remove_duplicates_from_sorted_list" />
       <config projectName="epi_judge_cpp" targetName="matrix_enclosed_regions" />
+      <config projectName="epi_judge_cpp" targetName="is_list_cyclic" />
       <config projectName="epi_judge_cpp" targetName="bst_to_sorted_list" />
       <config projectName="epi_judge_cpp" targetName="convert_base" />
       <config projectName="epi_judge_cpp" targetName="longest_subarray_with_sum_constraint" />
@@ -34,25 +35,21 @@
       <config projectName="epi_judge_cpp" targetName="search_shifted_sorted_array" />
       <config projectName="epi_judge_cpp" targetName="number_of_traversals_staircase" />
       <config projectName="epi_judge_cpp" targetName="longest_substring_with_matching_parentheses" />
-      <config projectName="epi_judge_cpp" targetName="successor_in_tree" />
       <config projectName="epi_judge_cpp" targetName="n_queens" />
-      <config projectName="epi_judge_cpp" targetName="k_closest_stars" />
-      <config projectName="epi_judge_cpp" targetName="longest_increasing_subarray" />
+      <config projectName="epi_judge_cpp" targetName="advance_by_offsets" />
       <config projectName="epi_judge_cpp" targetName="primitive_multiply" />
       <config projectName="epi_judge_cpp" targetName="string_decompositions_into_dictionary_words" />
-      <config projectName="epi_judge_cpp" targetName="even_odd_list_merge" />
       <config projectName="epi_judge_cpp" targetName="nonuniform_random_number" />
       <config projectName="epi_judge_cpp" targetName="string_transformability" />
       <config projectName="epi_judge_cpp" targetName="max_teams_in_photograph" />
       <config projectName="epi_judge_cpp" targetName="k_largest_values_in_bst" />
       <config projectName="epi_judge_cpp" targetName="do_lists_overlap" />
-      <config projectName="epi_judge_cpp" targetName="delete_node_from_list" />
       <config projectName="epi_judge_cpp" targetName="alternating_array" />
-      <config projectName="epi_judge_cpp" targetName="permutations" />
-      <config projectName="epi_judge_cpp" targetName="longest_subarray_with_distinct_values" />
+      <config projectName="epi_judge_cpp" targetName="fibonacci" />
       <config projectName="epi_judge_cpp" targetName="kth_node_in_tree" />
+      <config projectName="epi_judge_cpp" targetName="picking_up_coins" />
       <config projectName="epi_judge_cpp" targetName="search_in_list" />
-      <config projectName="epi_judge_cpp" targetName="run_length_compression" />
+      <config projectName="epi_judge_cpp" targetName="levenshtein_distance" />
       <config projectName="epi_judge_cpp" targetName="int_as_list_add" />
       <config projectName="epi_judge_cpp" targetName="adding_credits" />
       <config projectName="epi_judge_cpp" targetName="smallest_subarray_covering_set" />
@@ -60,38 +57,39 @@
       <config projectName="epi_judge_cpp" targetName="delete_from_list" />
       <config projectName="epi_judge_cpp" targetName="search_entry_equal_to_index" />
       <config projectName="epi_judge_cpp" targetName="intersect_sorted_arrays" />
+      <config projectName="epi_judge_cpp" targetName="random_subset" />
       <config projectName="epi_judge_cpp" targetName="is_string_in_matrix" />
+      <config projectName="epi_judge_cpp" targetName="tree_level_order" />
       <config projectName="epi_judge_cpp" targetName="is_anonymous_letter_constructible" />
-      <config projectName="epi_judge_cpp" targetName="search_for_missing_element" />
+      <config projectName="epi_judge_cpp" targetName="buy_and_sell_stock" />
+      <config projectName="epi_judge_cpp" targetName="anagrams" />
       <config projectName="epi_judge_cpp" targetName="apply_permutation" />
       <config projectName="epi_judge_cpp" targetName="number_of_traversals_matrix" />
-      <config projectName="epi_judge_cpp" targetName="spreadsheet_encoding" />
+      <config projectName="epi_judge_cpp" targetName="string_integer_interconversion" />
       <config projectName="epi_judge_cpp" targetName="task_pairing" />
       <config projectName="epi_judge_cpp" targetName="uniform_random_number" />
-      <config projectName="epi_judge_cpp" targetName="three_sum" />
+      <config projectName="epi_judge_cpp" targetName="search_frequent_items" />
       <config projectName="epi_judge_cpp" targetName="smallest_nonconstructible_value" />
       <config projectName="epi_judge_cpp" targetName="intervals_union" />
-      <config projectName="epi_judge_cpp" targetName="pascal_triangle" />
       <config projectName="epi_judge_cpp" targetName="binomial_coefficients" />
-      <config projectName="epi_judge_cpp" targetName="absent_value_array" />
+      <config projectName="epi_judge_cpp" targetName="enumerate_palindromic_decompositions" />
       <config projectName="epi_judge_cpp" targetName="substring_match" />
       <config projectName="epi_judge_cpp" targetName="path_sum" />
-      <config projectName="epi_judge_cpp" targetName="maximum_subarray_in_circular_array" />
-      <config projectName="epi_judge_cpp" targetName="copy_posting_list" />
+      <config projectName="epi_judge_cpp" targetName="huffman_coding" />
+      <config projectName="epi_judge_cpp" targetName="run_length_compression" />
       <config projectName="epi_judge_cpp" targetName="deadlock_detection" />
       <config projectName="epi_judge_cpp" targetName="is_string_decomposable_into_words" />
       <config projectName="epi_judge_cpp" targetName="search_row_col_sorted_matrix" />
       <config projectName="epi_judge_cpp" targetName="int_as_array_multiply" />
       <config projectName="epi_judge_cpp" targetName="k_largest_in_heap" />
-      <config projectName="epi_judge_cpp" targetName="tree_from_preorder_inorder" />
       <config projectName="epi_judge_cpp" targetName="tree_connect_leaves" />
+      <config projectName="epi_judge_cpp" targetName="permutations" />
       <config projectName="epi_judge_cpp" targetName="minimum_points_covering_intervals" />
-      <config projectName="epi_judge_cpp" targetName="longest_nondecreasing_subsequence" />
+      <config projectName="epi_judge_cpp" targetName="remove_duplicates" />
       <config projectName="epi_judge_cpp" targetName="lowest_common_ancestor_with_parent" />
-      <config projectName="epi_judge_cpp" targetName="defective_jugs" />
       <config projectName="epi_judge_cpp" targetName="longest_contained_interval" />
       <config projectName="epi_judge_cpp" targetName="calendar_rendering" />
-      <config projectName="epi_judge_cpp" targetName="tree_postorder" />
+      <config projectName="epi_judge_cpp" targetName="lowest_common_ancestor" />
       <config projectName="epi_judge_cpp" targetName="tree_exterior" />
       <config projectName="epi_judge_cpp" targetName="primitive_divide" />
       <config projectName="epi_judge_cpp" targetName="sort_list" />
@@ -99,18 +97,19 @@
       <config projectName="epi_judge_cpp" targetName="insert_operators_in_string" />
       <config projectName="epi_judge_cpp" targetName="circular_queue" />
       <config projectName="epi_judge_cpp" targetName="tree_right_sibling" />
+      <config projectName="epi_judge_cpp" targetName="swap_bits" />
       <config projectName="epi_judge_cpp" targetName="replace_and_remove" />
-      <config projectName="epi_judge_cpp" targetName="group_equal_entries" />
+      <config projectName="epi_judge_cpp" targetName="smallest_subarray_covering_all_values" />
+      <config projectName="epi_judge_cpp" targetName="longest_increasing_subarray" />
       <config projectName="epi_judge_cpp" targetName="is_list_palindromic" />
-      <config projectName="epi_judge_cpp" targetName="max_submatrix" />
-      <config projectName="epi_judge_cpp" targetName="fibonacci" />
-      <config projectName="epi_judge_cpp" targetName="is_list_cyclic" />
+      <config projectName="epi_judge_cpp" targetName="dutch_national_flag" />
       <config projectName="epi_judge_cpp" targetName="sorted_arrays_merge" />
       <config projectName="epi_judge_cpp" targetName="directory_path_normalization" />
+      <config projectName="epi_judge_cpp" targetName="drawing_skyline" />
       <config projectName="epi_judge_cpp" targetName="first_missing_positive_entry" />
       <config projectName="epi_judge_cpp" targetName="is_circuit_wirable" />
-      <config projectName="epi_judge_cpp" targetName="is_tree_a_bst" />
       <config projectName="epi_judge_cpp" targetName="parity" />
+      <config projectName="epi_judge_cpp" targetName="regular_expression" />
       <config projectName="epi_judge_cpp" targetName="sort_almost_sorted_array" />
       <config projectName="epi_judge_cpp" targetName="spiral_ordering_segments" />
       <config projectName="epi_judge_cpp" targetName="int_square_root" />
@@ -120,57 +119,57 @@
       <config projectName="epi_judge_cpp" targetName="sorted_lists_merge" />
       <config projectName="epi_judge_cpp" targetName="max_water_trappable" />
       <config projectName="epi_judge_cpp" targetName="collatz_checker" />
-      <config projectName="epi_judge_cpp" targetName="dutch_national_flag" />
-      <config projectName="epi_judge_cpp" targetName="gcd" />
+      <config projectName="epi_judge_cpp" targetName="max_trapped_water" />
+      <config projectName="epi_judge_cpp" targetName="is_tree_a_bst" />
+      <config projectName="epi_judge_cpp" targetName="group_equal_entries" />
       <config projectName="epi_judge_cpp" targetName="lowest_common_ancestor_close_ancestor" />
       <config projectName="epi_judge_cpp" targetName="bst_from_preorder" />
       <config projectName="epi_judge_cpp" targetName="prime_sieve" />
       <config projectName="epi_judge_cpp" targetName="max_safe_height" />
+      <config projectName="epi_judge_cpp" targetName="delete_kth_last_from_list" />
       <config projectName="epi_judge_cpp" targetName="roman_to_integer" />
       <config projectName="epi_judge_cpp" targetName="matrix_connected_regions" />
       <config projectName="epi_judge_cpp" targetName="next_permutation" />
       <config projectName="epi_judge_cpp" targetName="snake_string" />
       <config projectName="epi_judge_cpp" targetName="evaluate_rpn" />
       <config projectName="epi_judge_cpp" targetName="queue_from_stacks" />
-      <config projectName="epi_judge_cpp" targetName="string_integer_interconversion" />
       <config projectName="epi_judge_cpp" targetName="online_sampling" />
+      <config projectName="epi_judge_cpp" targetName="two_sum" />
       <config projectName="epi_judge_cpp" targetName="buy_and_sell_stock_twice" />
       <config projectName="epi_judge_cpp" targetName="kth_largest_element_in_long_array" />
       <config projectName="epi_judge_cpp" targetName="refueling_schedule" />
-      <config projectName="epi_judge_cpp" targetName="gray_code" />
       <config projectName="epi_judge_cpp" targetName="tree_with_parent_inorder" />
       <config projectName="epi_judge_cpp" targetName="bst_merge" />
       <config projectName="epi_judge_cpp" targetName="real_square_root" />
       <config projectName="epi_judge_cpp" targetName="phone_number_mnemonic" />
       <config projectName="epi_judge_cpp" targetName="combinations" />
       <config projectName="epi_judge_cpp" targetName="search_first_key" />
-      <config projectName="epi_judge_cpp" targetName="knapsack" />
+      <config projectName="epi_judge_cpp" targetName="pivot_list" />
       <config projectName="epi_judge_cpp" targetName="minimum_waiting_time" />
       <config projectName="epi_judge_cpp" targetName="search_for_min_max_in_array" />
-      <config projectName="epi_judge_cpp" targetName="enumerate_trees" />
-      <config projectName="epi_judge_cpp" targetName="buy_and_sell_stock" />
-      <config projectName="epi_judge_cpp" targetName="count_bits" />
+      <config projectName="epi_judge_cpp" targetName="knapsack" />
       <config projectName="epi_judge_cpp" targetName="sorted_list_to_bst" />
       <config projectName="epi_judge_cpp" targetName="kth_largest_in_array" />
       <config projectName="epi_judge_cpp" targetName="element_appearing_once" />
       <config projectName="epi_judge_cpp" targetName="road_network" />
-      <config projectName="epi_judge_cpp" targetName="drawing_skyline" />
+      <config projectName="epi_judge_cpp" targetName="max_submatrix" />
       <config projectName="epi_judge_cpp" targetName="buy_and_sell_stock_k_times" />
       <config projectName="epi_judge_cpp" targetName="rotate_array" />
       <config projectName="epi_judge_cpp" targetName="is_number_palindromic" />
       <config projectName="epi_judge_cpp" targetName="is_string_permutable_to_palindrome" />
       <config projectName="epi_judge_cpp" targetName="is_tree_symmetric" />
+      <config projectName="epi_judge_cpp" targetName="max_product_all_but_one" />
       <config projectName="epi_judge_cpp" targetName="pretty_printing" />
-      <config projectName="epi_judge_cpp" targetName="reverse_sublist" />
+      <config projectName="epi_judge_cpp" targetName="search_first_greater_value_in_bst" />
       <config projectName="epi_judge_cpp" targetName="sort_increasing_decreasing_array" />
       <config projectName="epi_judge_cpp" targetName="offline_sampling" />
-      <config projectName="epi_judge_cpp" targetName="levenshtein_distance" />
+      <config projectName="epi_judge_cpp" targetName="maximum_subarray_in_circular_array" />
       <config projectName="epi_judge_cpp" targetName="search_unknown_length_array" />
-      <config projectName="epi_judge_cpp" targetName="anagrams" />
-      <config projectName="epi_judge_cpp" targetName="max_product_all_but_one" />
-      <config projectName="epi_judge_cpp" targetName="remove_duplicates" />
+      <config projectName="epi_judge_cpp" targetName="search_for_missing_element" />
+      <config projectName="epi_judge_cpp" targetName="delete_node_from_list" />
+      <config projectName="epi_judge_cpp" targetName="k_closest_stars" />
       <config projectName="epi_judge_cpp" targetName="majority_element" />
-      <config projectName="epi_judge_cpp" targetName="two_sum" />
+      <config projectName="epi_judge_cpp" targetName="tree_postorder" />
       <config projectName="epi_judge_cpp" targetName="zip_list" />
       <config projectName="epi_judge_cpp" targetName="sum_root_to_leaf" />
       <config projectName="epi_judge_cpp" targetName="h_index" />
@@ -178,46 +177,47 @@
       <config projectName="epi_judge_cpp" targetName="list_cyclic_right_shift" />
       <config projectName="epi_judge_cpp" targetName="sudoku_solve" />
       <config projectName="epi_judge_cpp" targetName="arbitrage" />
-      <config projectName="epi_judge_cpp" targetName="search_first_greater_value_in_bst" />
-      <config projectName="epi_judge_cpp" targetName="enumerate_palindromic_decompositions" />
-      <config projectName="epi_judge_cpp" targetName="nearest_repeated_entries" />
+      <config projectName="epi_judge_cpp" targetName="absent_value_array" />
+      <config projectName="epi_judge_cpp" targetName="enumerate_trees" />
+      <config projectName="epi_judge_cpp" targetName="reverse_sublist" />
       <config projectName="epi_judge_cpp" targetName="a_b_sqrt2" />
-      <config projectName="epi_judge_cpp" targetName="graph_clone" />
+      <config projectName="epi_judge_cpp" targetName="count_bits" />
       <config projectName="epi_judge_cpp" targetName="is_array_dominated" />
-      <config projectName="epi_judge_cpp" targetName="picking_up_coins" />
+      <config projectName="epi_judge_cpp" targetName="longest_nondecreasing_subsequence" />
       <config projectName="epi_judge_cpp" targetName="tree_inorder" />
       <config projectName="epi_judge_cpp" targetName="max_of_sliding_window" />
       <config projectName="epi_judge_cpp" targetName="max_square_submatrix" />
       <config projectName="epi_judge_cpp" targetName="power_set" />
       <config projectName="epi_judge_cpp" targetName="find_salary_threshold" />
       <config projectName="epi_judge_cpp" targetName="is_valid_parenthesization" />
-      <config projectName="epi_judge_cpp" targetName="swap_bits" />
+      <config projectName="epi_judge_cpp" targetName="three_sum" />
       <config projectName="epi_judge_cpp" targetName="line_through_most_points" />
-      <config projectName="epi_judge_cpp" targetName="search_frequent_items" />
+      <config projectName="epi_judge_cpp" targetName="random_permutation" />
+      <config projectName="epi_judge_cpp" targetName="defective_jugs" />
       <config projectName="epi_judge_cpp" targetName="sunset_view" />
       <config projectName="epi_judge_cpp" targetName="stack_with_max" />
       <config projectName="epi_judge_cpp" targetName="is_tree_balanced" />
-      <config projectName="epi_judge_cpp" targetName="tree_level_order" />
+      <config projectName="epi_judge_cpp" targetName="successor_in_tree" />
       <config projectName="epi_judge_cpp" targetName="minimum_weight_path_in_a_triangle" />
       <config projectName="epi_judge_cpp" targetName="lowest_common_ancestor_in_bst" />
-      <config projectName="epi_judge_cpp" targetName="enumerate_balanced_parentheses" />
+      <config projectName="epi_judge_cpp" targetName="nearest_repeated_entries" />
       <config projectName="epi_judge_cpp" targetName="search_maze" />
       <config projectName="epi_judge_cpp" targetName="sorted_array_remove_dups" />
       <config projectName="epi_judge_cpp" targetName="is_string_palindromic_punctuation" />
       <config projectName="epi_judge_cpp" targetName="look_and_say" />
       <config projectName="epi_judge_cpp" targetName="queue_with_max" />
-      <config projectName="epi_judge_cpp" targetName="advance_by_offsets" />
+      <config projectName="epi_judge_cpp" targetName="enumerate_balanced_parentheses" />
       <config projectName="epi_judge_cpp" targetName="insert_in_list" />
-      <config projectName="epi_judge_cpp" targetName="pivot_list" />
+      <config projectName="epi_judge_cpp" targetName="pascal_triangle" />
       <config projectName="epi_judge_cpp" targetName="int_as_array_increment" />
-      <config projectName="epi_judge_cpp" targetName="smallest_subarray_covering_all_values" />
+      <config projectName="epi_judge_cpp" targetName="gcd" />
       <config projectName="epi_judge_cpp" targetName="range_lookup_in_bst" />
-      <config projectName="epi_judge_cpp" targetName="max_trapped_water" />
+      <config projectName="epi_judge_cpp" targetName="spreadsheet_encoding" />
       <config projectName="epi_judge_cpp" targetName="tree_preorder" />
-      <config projectName="epi_judge_cpp" targetName="regular_expression" />
+      <config projectName="epi_judge_cpp" targetName="tree_from_preorder_inorder" />
       <config projectName="epi_judge_cpp" targetName="rectangle_intersection" />
-      <config projectName="epi_judge_cpp" targetName="random_permutation" />
-      <config projectName="epi_judge_cpp" targetName="lowest_common_ancestor" />
+      <config projectName="epi_judge_cpp" targetName="longest_subarray_with_distinct_values" />
+      <config projectName="epi_judge_cpp" targetName="gray_code" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -227,7 +227,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47292a76-c573-4b36-afd9-91eae9ceebbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scratch.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advance_by_offsets.cc" beforeDir="false" afterPath="$PROJECT_DIR$/advance_by_offsets.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alternating_array.cc" beforeDir="false" afterPath="$PROJECT_DIR$/alternating_array.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apply_permutation.cc" beforeDir="false" afterPath="$PROJECT_DIR$/apply_permutation.cc" afterDir="false" />
@@ -264,6 +264,7 @@
       <change beforePath="$PROJECT_DIR$/reverse_words.cc" beforeDir="false" afterPath="$PROJECT_DIR$/reverse_words.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roman_to_integer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/roman_to_integer.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run_length_compression.cc" beforeDir="false" afterPath="$PROJECT_DIR$/run_length_compression.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scratch.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/snake_string.cc" beforeDir="false" afterPath="$PROJECT_DIR$/snake_string.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sorted_array_remove_dups.cc" beforeDir="false" afterPath="$PROJECT_DIR$/sorted_array_remove_dups.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sorted_lists_merge.cc" beforeDir="false" afterPath="$PROJECT_DIR$/sorted_lists_merge.cc" afterDir="false" />
@@ -274,1044 +275,6 @@
       <change beforePath="$PROJECT_DIR$/sunset_view.cc" beforeDir="false" afterPath="$PROJECT_DIR$/sunset_view.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tree_level_order.cc" beforeDir="false" afterPath="$PROJECT_DIR$/tree_level_order.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/valid_ip_addresses.cc" beforeDir="false" afterPath="$PROJECT_DIR$/valid_ip_addresses.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ABSqrt2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/AbsentValueArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/AddingCredits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/AdvanceByOffsets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/AlternatingArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/Anagrams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ApplyPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/Arbitrage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/BinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/BinaryTreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/BinomialCoefficients.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/Bonus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/BstFromPreorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/BstFromSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/BstMerge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/BstNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/BstToSortedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/BuyAndSellStock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/BuyAndSellStockKTimes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/BuyAndSellStockTwice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/CalendarRendering.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/CircularQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ClosestIntSameWeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/CollatzChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/Combinations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ConvertBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/CopyPostingList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/CountBits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/CountInversions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/DeadlockDetection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/DefectiveJugs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/DeleteFromList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/DeleteKthLastFromList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/DeleteNodeFromList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/DescendantAndAncestorInBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/DirectoryPathNormalization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/DoListsOverlap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/DoTerminatedListsOverlap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/DoublyListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/DrawingSkyline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/DutchNationalFlag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ElementAppearingOnce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/EnumerateBalancedParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/EnumeratePalindromicDecompositions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/EnumerateTrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/EvaluateRpn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/EvenOddArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/EvenOddListMerge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/FindSalaryThreshold.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/FirstMissingPositiveEntry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/Gcd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/GraphClone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/GrayCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/GroupEqualEntries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/HIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/Hanoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/HuffmanCoding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/InsertInList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/InsertOperatorsInString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IntAsArrayIncrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IntAsArrayMultiply.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IntAsListAdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IntSquareRoot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IntersectSortedArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IntervalAdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IntervalsUnion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsAnonymousLetterConstructible.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsArrayDominated.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsCircuitWirable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsListCyclic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsListPalindromic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsNumberPalindromic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsStringDecomposableIntoWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsStringInMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsStringPalindromicPunctuation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsStringPermutableToPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsTreeABst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsTreeBalanced.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsTreeSymmetric.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsValidParenthesization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/IsValidSudoku.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/KClosestStars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/KLargestInHeap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/KLargestValuesInBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/Knapsack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/KthLargestElementInLongArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/KthLargestElementInTwoSortedArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/KthLargestInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/KthNodeInTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LargestRectangleUnderSkyline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LeftRightJustifyText.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LevenshteinDistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LineThroughMostPoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ListCyclicRightShift.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LongestContainedInterval.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LongestIncreasingSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LongestNondecreasingSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LongestSubarrayWithDistinctValues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LongestSubarrayWithSumConstraint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LongestSubstringWithMatchingParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LookAndSay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LowestCommonAncestor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LowestCommonAncestorCloseAncestor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LowestCommonAncestorInBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LowestCommonAncestorWithParent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/LruCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MajorityElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MatrixConnectedRegions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MatrixEnclosedRegions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MatrixRotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MaxOfSlidingWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MaxProductAllButOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MaxSafeHeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MaxSquareSubmatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MaxSubmatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MaxSumSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MaxTeamsInPhotograph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MaxTrappedWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MaxWaterTrappable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MaximumSubarrayInCircularArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MinimumDistance3SortedArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MinimumPointsCoveringIntervals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MinimumWaitingTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/MinimumWeightPathInATriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/NQueens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/NearestRepeatedEntries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/NextPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/NonuniformRandomNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/NumberOfScoreCombinations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/NumberOfTraversalsMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/NumberOfTraversalsStaircase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/OfflineSampling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/OnlineMedian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/OnlineSampling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/Parity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/PascalTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/PathSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/Permutations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/PhoneNumberMnemonic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/PickingUpCoins.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/PivotList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/PostingListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/PowerSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/PowerXY.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/PrettyPrinting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/PrimeSieve.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/PrimitiveDivide.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/PrimitiveMultiply.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/QueueFromStacks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/QueueWithMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RandomPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RandomSubset.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RangeLookupInBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RealSquareRoot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RectangleIntersection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RefuelingSchedule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RegularExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RemoveDuplicates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RemoveDuplicatesFromSortedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ReplaceAndRemove.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ReverseBits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ReverseDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ReverseSublist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ReverseWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RoadNetwork.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RomanToInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RookAttack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RotateArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/RunLengthCompression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SearchEntryEqualToIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SearchFirstGreaterValueInBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SearchFirstKey.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SearchForMinMaxInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SearchForMissingElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SearchFrequentItems.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SearchInList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SearchMaze.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SearchRowColSortedMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SearchShiftedSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SearchUnknownLengthArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SmallestNonconstructibleValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SmallestSubarrayCoveringAllValues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SmallestSubarrayCoveringSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SnakeString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SortAlmostSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SortIncreasingDecreasingArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SortList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SortedArrayRemoveDups.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SortedArraysMerge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SortedListToBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SortedListsMerge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SpiralOrderingSegments.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SpreadsheetEncoding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/StackWithMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/StringDecompositionsIntoDictionaryWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/StringIntegerInterconversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/StringTransformability.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SubstringMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SuccessorInTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SudokuSolve.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SumRootToLeaf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SunsetView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/SwapBits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TaskPairing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ThreeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TreeConnectLeaves.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TreeExterior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TreeFromPreorderInorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TreeFromPreorderWithNull.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TreeInorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TreeLevelOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TreePostorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TreePreorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TreeRightSibling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TreeWithParentInorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TwoSortedArraysMerge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/UniformRandomNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ValidIpAddresses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/ZipList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/BinaryTreeUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/ConsoleColor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/EpiTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/EpiTestComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/EpiTestExpectedType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/EpiUserType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/GenericTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/GenericTestHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/LexicographicalListComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/Platform.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/RandomSequenceChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/TestConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/TestFailure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/TestOutput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/TestResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/TestTimer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/TestUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/TestUtilsConsole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/TimedExecutor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/TimeoutException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/TriBool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/console_color_32.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/console_color_64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/Json.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/JsonArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/JsonHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/JsonLiteral.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/JsonNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/JsonObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/JsonParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/JsonString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/JsonValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/JsonWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/Location.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/ParseException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/PrettyPrint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/WriterConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/minimal_json/WritingBuffer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/BinaryTreeTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/BooleanTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/CharacterTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/DoubleTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/FloatTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/IntegerTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/LinkedListTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/ListTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/LongTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/SerializationTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/SetTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/ShortTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/StringTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/TraitsFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/UserTypeTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java/epi/test_framework/serialization_traits/VoidTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ABSqrt2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/AbsentValueArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/AddingCredits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/AdvanceByOffsets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/AlternatingArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/Anagrams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ApplyPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/Arbitrage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/BinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/BinaryTreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/BinomialCoefficients.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/Bonus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/BstFromPreorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/BstFromSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/BstMerge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/BstNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/BstToSortedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/BuyAndSellStock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/BuyAndSellStockKTimes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/BuyAndSellStockTwice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/CalendarRendering.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/CircularQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ClosestIntSameWeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/CollatzChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/Combinations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ConvertBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/CopyPostingList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/CountBits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/CountInversions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/DeadlockDetection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/DefectiveJugs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/DeleteFromList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/DeleteKthLastFromList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/DeleteNodeFromList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/DescendantAndAncestorInBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/DirectoryPathNormalization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/DoListsOverlap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/DoTerminatedListsOverlap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/DoublyListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/DrawingSkyline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/DutchNationalFlag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ElementAppearingOnce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/EnumerateBalancedParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/EnumeratePalindromicDecompositions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/EnumerateTrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/EvaluateRpn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/EvenOddArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/EvenOddListMerge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/FindSalaryThreshold.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/FirstMissingPositiveEntry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/Gcd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/GraphClone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/GrayCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/GroupEqualEntries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/HIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/Hanoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/HuffmanCoding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/InsertInList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/InsertOperatorsInString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IntAsArrayIncrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IntAsArrayMultiply.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IntAsListAdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IntSquareRoot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IntersectSortedArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IntervalAdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IntervalsUnion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsAnonymousLetterConstructible.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsArrayDominated.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsCircuitWirable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsListCyclic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsListPalindromic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsNumberPalindromic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsStringDecomposableIntoWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsStringInMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsStringPalindromicPunctuation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsStringPermutableToPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsTreeABst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsTreeBalanced.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsTreeSymmetric.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsValidParenthesization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/IsValidSudoku.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/KClosestStars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/KLargestInHeap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/KLargestValuesInBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/Knapsack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/KthLargestElementInLongArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/KthLargestElementInTwoSortedArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/KthLargestInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/KthNodeInTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LargestRectangleUnderSkyline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LeftRightJustifyText.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LevenshteinDistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LineThroughMostPoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ListCyclicRightShift.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LongestContainedInterval.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LongestIncreasingSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LongestNondecreasingSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LongestSubarrayWithDistinctValues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LongestSubarrayWithSumConstraint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LongestSubstringWithMatchingParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LookAndSay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LowestCommonAncestor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LowestCommonAncestorCloseAncestor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LowestCommonAncestorInBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LowestCommonAncestorWithParent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/LruCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MajorityElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MatrixConnectedRegions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MatrixEnclosedRegions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MatrixRotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MaxOfSlidingWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MaxProductAllButOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MaxSafeHeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MaxSquareSubmatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MaxSubmatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MaxSumSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MaxTeamsInPhotograph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MaxTrappedWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MaxWaterTrappable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MaximumSubarrayInCircularArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MinimumDistance3SortedArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MinimumPointsCoveringIntervals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MinimumWaitingTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/MinimumWeightPathInATriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/NQueens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/NearestRepeatedEntries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/NextPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/NonuniformRandomNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/NumberOfScoreCombinations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/NumberOfTraversalsMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/NumberOfTraversalsStaircase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/OfflineSampling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/OnlineMedian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/OnlineSampling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/Parity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/PascalTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/PathSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/Permutations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/PhoneNumberMnemonic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/PickingUpCoins.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/PivotList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/PostingListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/PowerSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/PowerXY.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/PrettyPrinting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/PrimeSieve.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/PrimitiveDivide.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/PrimitiveMultiply.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/QueueFromStacks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/QueueWithMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/QueueWithMaxUsingDeque.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RandomPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RandomSubset.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RangeLookupInBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RealSquareRoot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RectangleIntersection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RefuelingSchedule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RegularExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RemoveDuplicates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RemoveDuplicatesFromSortedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ReplaceAndRemove.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ReverseBits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ReverseDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ReverseLinkedListIterative.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ReverseSublist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ReverseWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RoadNetwork.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RomanToInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RookAttack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RotateArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/RunLengthCompression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SearchEntryEqualToIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SearchFirstGreaterValueInBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SearchFirstKey.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SearchForMinMaxInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SearchForMissingElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SearchFrequentItems.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SearchInList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SearchMaze.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SearchRowColSortedMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SearchShiftedSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SearchUnknownLengthArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SmallestNonconstructibleValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SmallestSubarrayCoveringAllValues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SmallestSubarrayCoveringSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SnakeString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SortAlmostSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SortIncreasingDecreasingArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SortList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SortedArrayRemoveDups.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SortedArraysMerge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SortedListToBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SortedListsMerge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SpiralOrderingSegments.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SpreadsheetEncoding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/StackWithMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/StringDecompositionsIntoDictionaryWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/StringIntegerInterconversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/StringTransformability.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SubstringMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SuccessorInTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SudokuSolve.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SumRootToLeaf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SunsetView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/SwapBits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TaskPairing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ThreeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TreeConnectLeaves.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TreeExterior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TreeFromPreorderInorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TreeFromPreorderWithNull.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TreeInorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TreeLevelOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TreePostorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TreePreorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TreeRightSibling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TreeWithParentInorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TwoSortedArraysMerge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/UniformRandomNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ValidIpAddresses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/ZipList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/BinaryTreeUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/ConsoleColor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/EpiTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/EpiTestComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/EpiTestExpectedType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/EpiUserType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/GenericTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/GenericTestHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/LexicographicalListComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/Platform.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/RandomSequenceChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/TestConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/TestFailure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/TestOutput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/TestResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/TestTimer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/TestUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/TestUtilsConsole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/TimedExecutor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/TimeoutException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/TriBool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/console_color_32.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/console_color_64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/Json.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/JsonArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/JsonHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/JsonLiteral.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/JsonNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/JsonObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/JsonParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/JsonString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/JsonValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/JsonWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/Location.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/ParseException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/PrettyPrint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/WriterConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/minimal_json/WritingBuffer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/BinaryTreeTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/BooleanTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/CharacterTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/DoubleTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/FloatTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/IntegerTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/LinkedListTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/ListTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/LongTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/SerializationTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/SetTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/ShortTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/StringTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/TraitsFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/UserTypeTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_java_solutions/epi/test_framework/serialization_traits/VoidTraits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/a_b_sqrt2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/absent_value_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/adding_credits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/advance_by_offsets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/alternating_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/anagrams.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/apply_permutation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/arbitrage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/binary_tree_node.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/binary_tree_with_parent_prototype.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/binomial_coefficients.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/bonus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/bst_from_preorder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/bst_from_sorted_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/bst_merge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/bst_node.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/bst_to_sorted_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/buy_and_sell_stock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/buy_and_sell_stock_k_times.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/buy_and_sell_stock_twice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/calendar_rendering.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/circular_queue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/closest_int_same_weight.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/collatz_checker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/combinations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/convert_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/copy_posting_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/count_bits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/count_inversions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/deadlock_detection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/defective_jugs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/delete_from_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/delete_kth_last_from_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/delete_node_from_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/descendant_and_ancestor_in_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/directory_path_normalization.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/do_lists_overlap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/do_terminated_lists_overlap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/doubly_list_node.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/drawing_skyline.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/dutch_national_flag.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/element_appearing_once.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/enumerate_balanced_parentheses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/enumerate_palindromic_decompositions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/enumerate_trees.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/evaluate_rpn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/even_odd_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/even_odd_list_merge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/fibonacci.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/find_salary_threshold.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/first_missing_positive_entry.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/gcd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/graph_clone.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/gray_code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/group_equal_entries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/h_index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/hanoi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/huffman_coding.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/insert_in_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/insert_operators_in_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/int_as_array_increment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/int_as_array_multiply.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/int_as_list_add.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/int_square_root.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/intersect_sorted_arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/interval_add.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/intervals_union.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_anonymous_letter_constructible.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_array_dominated.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_circuit_wirable.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_list_cyclic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_list_palindromic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_number_palindromic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_string_decomposable_into_words.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_string_in_matrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_string_palindromic_punctuation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_string_permutable_to_palindrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_tree_a_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_tree_balanced.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_tree_symmetric.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_valid_parenthesization.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/is_valid_sudoku.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/k_closest_stars.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/k_largest_in_heap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/k_largest_values_in_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/knapsack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/kth_largest_element_in_long_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/kth_largest_element_in_two_sorted_arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/kth_largest_in_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/kth_node_in_tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/largest_rectangle_under_skyline.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/left_right_justify_text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/levenshtein_distance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/line_through_most_points.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/list_cyclic_right_shift.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/list_node.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/longest_contained_interval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/longest_increasing_subarray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/longest_nondecreasing_subsequence.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/longest_subarray_with_distinct_values.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/longest_subarray_with_sum_constraint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/longest_substring_with_matching_parentheses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/look_and_say.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/lowest_common_ancestor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/lowest_common_ancestor_close_ancestor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/lowest_common_ancestor_in_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/lowest_common_ancestor_with_parent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/lru_cache.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/majority_element.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/matrix_connected_regions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/matrix_enclosed_regions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/matrix_rotation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/max_of_sliding_window.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/max_product_all_but_one.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/max_safe_height.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/max_square_submatrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/max_submatrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/max_sum_subarray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/max_teams_in_photograph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/max_trapped_water.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/max_water_trappable.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/maximum_subarray_in_circular_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/minimum_distance_3_sorted_arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/minimum_points_covering_intervals.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/minimum_waiting_time.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/minimum_weight_path_in_a_triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/n_queens.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/nearest_repeated_entries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/next_permutation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/nonuniform_random_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/number_of_score_combinations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/number_of_traversals_matrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/number_of_traversals_staircase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/offline_sampling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/online_median.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/online_sampling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/parity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/pascal_triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/path_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/permutations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/phone_number_mnemonic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/picking_up_coins.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/pivot_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/posting_list_node.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/power_set.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/power_x_y.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/pretty_printing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/prime_sieve.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/primitive_divide.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/primitive_multiply.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/queue_from_stacks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/queue_with_max.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/random_permutation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/random_subset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/range_lookup_in_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/real_square_root.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/rectangle_intersection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/refueling_schedule.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/regular_expression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/remove_duplicates.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/remove_duplicates_from_sorted_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/replace_and_remove.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/reverse_bits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/reverse_digits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/reverse_sublist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/reverse_words.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/road_network.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/roman_to_integer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/rook_attack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/rotate_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/run_length_compression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/search_entry_equal_to_index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/search_first_greater_value_in_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/search_first_key.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/search_for_min_max_in_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/search_for_missing_element.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/search_frequent_items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/search_in_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/search_maze.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/search_row_col_sorted_matrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/search_shifted_sorted_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/search_unknown_length_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/smallest_nonconstructible_value.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/smallest_subarray_covering_all_values.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/smallest_subarray_covering_set.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/snake_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/sort_almost_sorted_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/sort_increasing_decreasing_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/sort_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/sorted_array_remove_dups.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/sorted_arrays_merge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/sorted_list_to_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/sorted_lists_merge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/spiral_ordering_segments.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/spreadsheet_encoding.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/stack_with_max.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/string_decompositions_into_dictionary_words.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/string_integer_interconversion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/string_transformability.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/substring_match.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/successor_in_tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/sudoku_solve.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/sum_root_to_leaf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/sunset_view.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/swap_bits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/task_pairing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/binary_tree_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/console_color.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/generic_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/generic_test_handler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/platform.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/random_sequence_checker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/test_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/test_failure.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/test_result.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/test_timer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/test_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/test_utils_console.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/test_utils_deserialization.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/timed_executor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/timeout_exception.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/test_framework/tri_bool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/three_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/tree_connect_leaves.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/tree_exterior.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/tree_from_preorder_inorder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/tree_from_preorder_with_null.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/tree_inorder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/tree_level_order.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/tree_postorder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/tree_preorder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/tree_right_sibling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/tree_with_parent_inorder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/two_sorted_arrays_merge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/two_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/uniform_random_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/valid_ip_addresses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python/zip_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/a_b_sqrt2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/absent_value_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/adding_credits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/advance_by_offsets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/alternating_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/anagrams.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/apply_permutation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/arbitrage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/binary_tree_node.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/binary_tree_with_parent_prototype.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/binomial_coefficients.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/bonus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/bst_from_preorder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/bst_from_sorted_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/bst_merge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/bst_node.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/bst_to_sorted_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/buy_and_sell_stock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/buy_and_sell_stock_k_times.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/buy_and_sell_stock_twice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/calendar_rendering.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/circular_queue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/closest_int_same_weight.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/collatz_checker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/combinations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/convert_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/copy_posting_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/count_bits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/count_inversions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/deadlock_detection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/defective_jugs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/delete_from_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/delete_kth_last_from_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/delete_node_from_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/descendant_and_ancestor_in_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/directory_path_normalization.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/do_lists_overlap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/do_terminated_lists_overlap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/doubly_list_node.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/drawing_skyline.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/dutch_national_flag.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/element_appearing_once.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/enumerate_balanced_parentheses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/enumerate_palindromic_decompositions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/enumerate_trees.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/evaluate_rpn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/even_odd_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/even_odd_list_merge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/fibonacci.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/find_salary_threshold.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/first_missing_positive_entry.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/gcd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/graph_clone.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/gray_code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/group_equal_entries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/h_index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/hanoi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/huffman_coding.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/insert_in_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/insert_operators_in_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/int_as_array_increment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/int_as_array_multiply.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/int_as_list_add.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/int_square_root.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/intersect_sorted_arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/interval_add.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/intervals_union.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_anonymous_letter_constructible.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_array_dominated.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_circuit_wirable.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_list_cyclic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_list_palindromic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_number_palindromic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_string_decomposable_into_words.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_string_in_matrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_string_palindromic_punctuation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_string_permutable_to_palindrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_tree_a_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_tree_balanced.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_tree_symmetric.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_valid_parenthesization.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/is_valid_sudoku.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/k_closest_stars.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/k_largest_in_heap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/k_largest_values_in_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/knapsack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/kth_largest_element_in_long_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/kth_largest_element_in_two_sorted_arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/kth_largest_in_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/kth_node_in_tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/largest_rectangle_under_skyline.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/left_right_justify_text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/levenshtein_distance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/line_through_most_points.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/list_cyclic_right_shift.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/list_node.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/longest_contained_interval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/longest_increasing_subarray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/longest_nondecreasing_subsequence.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/longest_subarray_with_distinct_values.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/longest_subarray_with_sum_constraint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/longest_substring_with_matching_parentheses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/look_and_say.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/lowest_common_ancestor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/lowest_common_ancestor_close_ancestor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/lowest_common_ancestor_in_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/lowest_common_ancestor_with_parent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/lru_cache.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/majority_element.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/matrix_connected_regions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/matrix_enclosed_regions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/matrix_rotation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/max_of_sliding_window.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/max_product_all_but_one.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/max_safe_height.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/max_square_submatrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/max_submatrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/max_sum_subarray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/max_teams_in_photograph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/max_trapped_water.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/max_water_trappable.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/maximum_subarray_in_circular_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/minimum_distance_3_sorted_arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/minimum_points_covering_intervals.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/minimum_waiting_time.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/minimum_weight_path_in_a_triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/n_queens.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/nearest_repeated_entries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/next_permutation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/nonuniform_random_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/number_of_score_combinations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/number_of_traversals_matrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/number_of_traversals_staircase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/offline_sampling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/online_median.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/online_sampling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/parity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/pascal_triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/path_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/permutations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/phone_number_mnemonic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/picking_up_coins.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/pivot_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/posting_list_node.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/power_set.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/power_x_y.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/pretty_printing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/prime_sieve.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/primitive_divide.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/primitive_multiply.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/queue_from_stacks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/queue_with_max.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/queue_with_max_using_deque.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/random_permutation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/random_subset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/range_lookup_in_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/real_square_root.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/rectangle_intersection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/refueling_schedule.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/regular_expression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/remove_duplicates.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/remove_duplicates_from_sorted_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/replace_and_remove.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/reverse_bits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/reverse_digits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/reverse_linked_list_iterative.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/reverse_sublist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/reverse_words.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/road_network.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/roman_to_integer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/rook_attack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/rotate_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/run_length_compression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/search_entry_equal_to_index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/search_first_greater_value_in_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/search_first_key.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/search_for_min_max_in_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/search_for_missing_element.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/search_frequent_items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/search_in_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/search_maze.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/search_row_col_sorted_matrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/search_shifted_sorted_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/search_unknown_length_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/smallest_nonconstructible_value.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/smallest_subarray_covering_all_values.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/smallest_subarray_covering_set.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/snake_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/sort_almost_sorted_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/sort_increasing_decreasing_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/sort_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/sorted_array_remove_dups.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/sorted_arrays_merge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/sorted_list_to_bst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/sorted_lists_merge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/spiral_ordering_segments.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/spreadsheet_encoding.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/stack_with_max.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/string_decompositions_into_dictionary_words.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/string_integer_interconversion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/string_transformability.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/substring_match.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/successor_in_tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/sudoku_solve.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/sum_root_to_leaf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/sunset_view.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/swap_bits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/task_pairing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/binary_tree_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/console_color.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/generic_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/generic_test_handler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/platform.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/random_sequence_checker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/test_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/test_failure.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/test_result.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/test_timer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/test_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/test_utils_console.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/test_utils_deserialization.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/timed_executor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/timeout_exception.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/test_framework/tri_bool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/three_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/tree_connect_leaves.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/tree_exterior.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/tree_from_preorder_inorder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/tree_from_preorder_with_null.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/tree_inorder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/tree_level_order.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/tree_postorder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/tree_preorder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/tree_right_sibling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/tree_with_parent_inorder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/two_sorted_arrays_merge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/two_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/uniform_random_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/valid_ip_addresses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../epi_judge_python_solutions/zip_list.py" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1339,17 +302,20 @@
     <session id="-434259678">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.63" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cc" value="53" />
           <entry key="h" value="3" />
+          <entry key="md" value="1" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
@@ -1357,20 +323,23 @@
         <counts>
           <entry key="CMakeLists.txt" value="1" />
           <entry key="ObjectiveC" value="56" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cc" value="45878" />
-          <entry key="txt" value="1911" />
+          <entry key="md" value="1" />
+          <entry key="txt" value="1952" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Doxygen file" value="18" />
+          <entry key="Markdown" value="1" />
           <entry key="ObjectiveC" value="45860" />
+          <entry key="PLAIN_TEXT" value="41" />
           <entry key="Scratch" value="1911" />
         </counts>
       </usages-collector>
@@ -1381,7 +350,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
+            <state relative-caret-position="1360">
               <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
             </state>
           </provider>
@@ -1390,8 +359,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lowest_common_ancestor.cc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="1258">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -1400,14 +369,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scratch.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stack_with_max.cc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="119">
               <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
@@ -1431,7 +407,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apply_permutation.cc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="153">
               <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
@@ -1443,7 +419,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/offline_sampling.cc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
+            <state relative-caret-position="1071">
               <caret line="63" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
@@ -1508,6 +484,7 @@
         <option value="$PROJECT_DIR$/is_tree_symmetric.cc" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
         <option value="$PROJECT_DIR$/lowest_common_ancestor.cc" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1560,6 +537,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2892,22 +1874,32 @@
       <workItem from="1541041694009" duration="2734000" />
       <workItem from="1541617140293" duration="35193000" />
       <workItem from="1541793725207" duration="57407000" />
-      <workItem from="1542168713628" duration="28234000" />
+      <workItem from="1542168713628" duration="28471000" />
+      <workItem from="1542388396246" duration="308000" />
     </task>
+    <task id="LOCAL-00001" summary="Included the scratch.txt file.">
+      <created>1542388007699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542388007699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123568000" />
+    <option name="totallyTimeSpent" value="124113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28605577" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29083666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49800798" visible="true" weight="0.36645964" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49800798" weight="0.36645964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -2952,14 +1944,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Included the scratch.txt file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Included the scratch.txt file." />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/string_integer_interconversion.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/combinations.cc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -3041,9 +2030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3051,9 +2037,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3061,9 +2044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="136" selection-start-line="136" selection-end-line="136" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3071,9 +2051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3081,9 +2058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3119,9 +2093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3135,9 +2106,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3162,9 +2130,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="37" column="57" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3207,9 +2172,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3224,9 +2186,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3234,8 +2193,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree_level_order.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circular_queue.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="90" selection-start-line="10" selection-start-column="90" selection-end-line="10" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue_from_stacks.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue_with_max.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="52" selection-start-line="52" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/is_tree_balanced.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/is_tree_symmetric.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch.txt" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lowest_common_ancestor.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack_with_max.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3252,7 +2278,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apply_permutation.cc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="153">
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
@@ -3260,49 +2286,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree_level_order.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circular_queue.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="90" selection-start-line="10" selection-start-column="90" selection-end-line="10" selection-end-column="90" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queue_from_stacks.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queue_with_max.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="52" selection-start-line="52" selection-end-line="53" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/offline_sampling.cc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
+        <state relative-caret-position="1071">
           <caret line="63" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
@@ -3310,55 +2296,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack_with_max.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/is_tree_balanced.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/is_tree_symmetric.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lowest_common_ancestor.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scratch.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
