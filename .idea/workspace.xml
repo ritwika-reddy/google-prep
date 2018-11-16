@@ -227,6 +227,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47292a76-c573-4b36-afd9-91eae9ceebbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/scratch.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advance_by_offsets.cc" beforeDir="false" afterPath="$PROJECT_DIR$/advance_by_offsets.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alternating_array.cc" beforeDir="false" afterPath="$PROJECT_DIR$/alternating_array.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apply_permutation.cc" beforeDir="false" afterPath="$PROJECT_DIR$/apply_permutation.cc" afterDir="false" />
@@ -1349,13 +1350,14 @@
         <counts>
           <entry key="cc" value="53" />
           <entry key="h" value="3" />
-          <entry key="txt" value="2" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CMakeLists.txt" value="1" />
           <entry key="ObjectiveC" value="56" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -1385,7 +1387,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lowest_common_ancestor.cc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="251">
@@ -1395,6 +1397,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scratch.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -1448,7 +1455,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -1533,6 +1540,11 @@
             <path>
               <item name="epi_judge_cpp" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="epi_judge_cpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
@@ -2880,23 +2892,22 @@
       <workItem from="1541041694009" duration="2734000" />
       <workItem from="1541617140293" duration="35193000" />
       <workItem from="1541793725207" duration="57407000" />
-      <workItem from="1542168713628" duration="27781000" />
+      <workItem from="1542168713628" duration="28234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123115000" />
+    <option name="totallyTimeSpent" value="123568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28605577" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28605577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49800798" visible="true" weight="0.36645964" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49800798" visible="true" weight="0.36645964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -2942,13 +2953,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/a_b_sqrt2.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string_integer_interconversion.cc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -3352,6 +3356,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
