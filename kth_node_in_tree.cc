@@ -7,6 +7,9 @@
 #include "test_framework/serialization_traits.h"
 #include "test_framework/test_failure.h"
 using std::unique_ptr;
+
+using namespace std;
+
 template <typename T>
 struct BinaryTreeNode {
   T data;
@@ -16,8 +19,39 @@ struct BinaryTreeNode {
 
 const BinaryTreeNode<int>* FindKthNodeBinaryTree(
     const unique_ptr<BinaryTreeNode<int>>& tree, int k) {
-  // TODO - you fill in here.
-  return nullptr;
+  /*
+   * TreeNode stores the size of the subtree rooted
+   * at that node.
+   * So we can use this information to computet the kth
+   * node efficiently. Sort of like Binary search where we
+   * eliminate a part of the array.
+   *
+   * Here we can eliminate the left or the right subtree.
+   *
+   * Also because it's the inorder traversal, the left
+   * subtree is processed before the right subtree
+   * and so we are only concerned with the size of the
+   * left subtree since they come before the current node.
+   * */
+  int before = 0, after = 0;
+
+  if(tree->left)
+    before = tree->left->size;
+
+  if(tree->right)
+    after = tree->right->size;
+
+  if(k <= before)
+    return FindKthNodeBinaryTree(tree->left, k);
+  else{
+    if(k - before == 1)
+      return tree.get();
+    else
+      return FindKthNodeBinaryTree(tree->right, k - before - 1);
+  }
+
+
+//  return nullptr;
 }
 template <typename KeyT>
 struct SerializationTraits<std::unique_ptr<BinaryTreeNode<KeyT>>>

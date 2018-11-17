@@ -3,10 +3,28 @@
 #include "test_framework/generic_test.h"
 using std::unique_ptr;
 
+using namespace std;
+
 bool HasPathSum(const unique_ptr<BinaryTreeNode<int>>& tree,
                 int remaining_weight) {
-  // TODO - you fill in here.
-  return true;
+  /*
+   *
+   * */
+
+  if(!tree)
+    return false;
+
+  remaining_weight -= tree->data;
+
+  if(!tree->left && !tree->right){
+    if(remaining_weight == 0)
+      return true;
+    else
+      return false;
+  }
+
+  return HasPathSum(tree->left, remaining_weight) ||
+          HasPathSum(tree->right, remaining_weight);
 }
 
 int main(int argc, char* argv[]) {
